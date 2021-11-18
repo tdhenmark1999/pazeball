@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "code": "Basketball",
+    "description": "2020-09-30 19:15:10",
+    "directory": "Basketball",
+    "filename": "category/bnaltfrqsf",
+    "full_path": "bnaltfrqsf.jpg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/bnaltfrqsf/bnaltfrqsf.jpg",
+    "title": "2020-09-30 19:15:10",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    },
+    {
+    "id": 2,
+    "code": "Soccer",
+    "description": "2020-09-30 19:15:31",
+    "directory": "Soccer",
+    "filename": "category/pqniduperk",
+    "full_path": "pqniduperk.jpg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/pqniduperk/pqniduperk.jpg",
+    "title": "2020-09-30 19:15:31",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    },
+    {
+    "id": 3,
+    "code": "Cycling",
+    "description": "2020-09-30 19:15:45",
+    "directory": "Cycling",
+    "filename": "category/lxwcztkcew",
+    "full_path": "lxwcztkcew.jpg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/lxwcztkcew/lxwcztkcew.jpg",
+    "title": "2020-09-30 19:15:45",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    },
+    {
+    "id": 4,
+    "code": "Tennis",
+    "description": "2020-09-30 19:16:00",
+    "directory": "Tennis",
+    "filename": "category/gtctqnnyqa",
+    "full_path": "gtctqnnyqa.jpeg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/gtctqnnyqa/gtctqnnyqa.jpeg",
+    "title": "2020-09-30 19:16:00",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    },
+    {
+    "id": 5,
+    "code": "Table Tennis",
+    "description": "2020-09-30 19:16:15",
+    "directory": "Table Tennis",
+    "filename": "category/kxkxtwtchd",
+    "full_path": "kxkxtwtchd.jpg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/kxkxtwtchd/kxkxtwtchd.jpg",
+    "title": "2020-09-30 19:16:15",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    },
+    {
+    "id": 6,
+    "code": "Volleyball",
+    "description": "2020-09-30 19:16:30",
+    "directory": "Volleyball",
+    "filename": "category/asayxdpxfr",
+    "full_path": "asayxdpxfr.jpg",
+    "path": "https://d1r1c1t2ncj44p.cloudfront.net/category/asayxdpxfr/asayxdpxfr.jpg",
+    "title": "2020-09-30 19:16:30",
+    "created_at": "-0001-11-30 00:00:00",
+    "updated_at": "-0001-11-30 00:00:00"
+    }
+    ]
